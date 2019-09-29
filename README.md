@@ -16,18 +16,18 @@
 
 按熟悉程度 （5⭐）为精通
 
-1. JavaScript、 TypeScript、Vue (⭐⭐⭐⭐)
-2. Java、Kotlin、Android (⭐⭐⭐⭐)
-3. Swift、 Objective-C、iOS (⭐⭐⭐⭐)
-4. Python、 Flask (⭐⭐⭐⭐) 、 Django (⭐⭐⭐)
-5. C、Unix/Linux 系统编程、Shell、TCP/IP、Socket(⭐⭐⭐)
-6. Git、Vim (⭐⭐⭐)
-7. C++、 Go(⭐⭐)
+1. JavaScript、 TypeScript、Vue,React (⭐⭐⭐⭐)
+2. Python、 Flask (⭐⭐⭐⭐) 、 Django (⭐⭐⭐⭐)
+3. C、Unix/Linux 系统编程、Shell、TCP/IP、Socket(⭐⭐⭐)
+4. Java、Kotlin、Android (⭐⭐⭐⭐)
+5. Swift、 Objective-C、iOS (⭐⭐⭐⭐)
+6. Redis,PostgreSQL,MongoDB,SQLite (⭐⭐⭐)
+7. Git、Vim (⭐⭐⭐)
+8. C++、 Go(⭐⭐)
 
 
 
 ```
 Email: banxi1988@gmail.com
-Wechat: import_this
 GitHub: https://github.com/banxi1988
 ```
